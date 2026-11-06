@@ -6,9 +6,9 @@
 
 ## 🚀 旗舰代表作 (Flagship Project)
 
-### ⏱️ [《最后一局》(LastMatch)](https://github.com/ncxj/LastMatch_Release)
+### ⏱️ [《最后一局》· 绝不误事 (LastMatch)](https://github.com/ncxj/LastMatch_Release)
 > **全球首款支持“智能对局感知与局终唤醒”的电竞自律时钟**  
-> *The Smart Post-Match Gaming Alarm & Anti-Procrastination Assistant*
+> *激战免打扰，局终准时叫，明天绝不误事！*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows_11_Exclusive-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Platform" />
@@ -18,9 +18,9 @@
 
 - 💡 **痛点破局**：彻底终结“传统定时关机直接黑屏残局扣分被封号”与“手机闹钟随手划掉继续通宵”的顽疾；
 - 🛡️ **激战免打扰**：CS2 / 英雄联盟 / 黑神话：悟空 / 文明6&7 / PUBG / 炉石传说 等主流大作毫秒级原生广播与数据流感知（**0 内存读写、0 进程注入、官方 0 封号风险**）；
-- 🎙️ **局终第 0 秒温柔唤醒**：内置 Windows 11 原生 WinRT 神经网络自然真人语音引擎，战局结算瞬间耳边提醒，局后平稳物理休眠，保护健康！
+- 🎙️ **局终第 0 秒温柔唤醒**：内置 Windows 11 原生 WinRT 神经网络自然真人语音引擎，战局结算瞬间耳边提醒，局后平稳物理休眠，尽兴畅玩同时绝不误事！
 
-👉 [**📦 前往《最后一局》官方发布页与更新动态 ➔**](https://github.com/ncxj/LastMatch_Release)
+👉 [**📦 前往《最后一局·绝不误事》官方发布页与更新动态 ➔**](https://github.com/ncxj/LastMatch_Release)
 
 ---
 
