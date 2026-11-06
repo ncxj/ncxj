@@ -11,7 +11,6 @@
 > *The Smart Post-Match Gaming Alarm & Anti-Procrastination Assistant*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Framework-.NET%2010%20(Pure%20WPF)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Active%20Production-success?style=for-the-badge" />
 </p>
 
