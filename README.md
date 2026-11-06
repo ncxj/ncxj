@@ -11,9 +11,9 @@
 > *The Smart Post-Match Gaming Alarm & Anti-Procrastination Assistant*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows%2011%20Exclusive-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Platform" />
-  <img src="https://img.shields.io/badge/Release-v1.2.0%20Official-success?style=for-the-badge&logo=github" alt="Release" />
-  <img src="https://img.shields.io/badge/License-Commercial%20Freemium-blue?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Platform-Windows_11_Exclusive-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/Release-v1.2.0_Official-34A853?style=for-the-badge&logo=github&logoColor=white" alt="Release" />
+  <img src="https://img.shields.io/badge/License-Commercial_Freemium-4285F4?style=for-the-badge" alt="License" />
 </p>
 
 - 💡 **痛点破局**：彻底终结“传统定时关机直接黑屏残局扣分被封号”与“手机闹钟随手划掉继续通宵”的顽疾；
